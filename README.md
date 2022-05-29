@@ -1,5 +1,5 @@
 Postman Clone GET POST api Website
-Hosted Link: 
+Hosted Link: https://animated-brioche-3ff357.netlify.app/
 
 
 For Get api: Copy Url = 'https://randomuser.me/api/' 
